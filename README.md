@@ -17,7 +17,6 @@ Para preparar el entorno y ejecutar los ejercicios, sigue estos pasos desde SSMS
 
 ```text
 Laboratorio-SQL/            <-- (Directorio raíz)
-├── README.md               <-- (Este archivo)
-└── Documentos/             <-- (Carpeta contenedora de los entregables)
-    ├── img/                <-- (Carpeta con las capturas de pantalla de SSMS)
-    └── tu_laboratorio.pdf  <-- (Documentación paso a paso con evidencias)
+├── README.md               <-- (Este archivo)         
+ ├── img/                <-- (Carpeta con las capturas de pantalla de SSMS)
+ └── tu_laboratorio.pdf  <-- (Documentación paso a paso con evidencias)
